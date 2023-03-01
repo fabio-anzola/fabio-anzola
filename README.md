@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Fabio, a 18 year old IT Student from Austria.
+I'm Fabio, a 19 year old IT Student from Austria.
 
 ## Skills
 - 🖥 JavaScript, PHP, Java, Python, C#, Swift
