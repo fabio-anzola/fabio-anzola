@@ -1,11 +1,5 @@
 ## Hey! 👋
-I'm Fabio, a 20 year old Computer Science Student from Austria.
-
-## Skills
-- 🖥 JavaScript, PHP, Java, Python, C#, Swift
-- ⚙️ Express, Node, Vaadin, Flask
-- 👁️ CSS, HTML, Markdown
-- 💽 MySQL, SQL, SQLite, MongoDB, MS Access
+I'm Fabio, a 21 year old Computer Science Student from Austria.
 
 ## Contact
 - [@fabio-anzola](https://www.linkedin.com/in/fabio-anzola/) on LinkedIn
